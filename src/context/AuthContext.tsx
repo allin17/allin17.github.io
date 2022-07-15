@@ -12,7 +12,7 @@ interface Interface {
 
 
 const initialState: any = {
-    currentUser: JSON.parse(localStorage.getItem("user") || '')
+    currentUser: JSON.parse(localStorage.getItem("user")! || '{}')
 }
 
 export const AuthContext = createContext(initialState)
