@@ -32,6 +32,10 @@ const Login = () => {
 
 return (
     <div className="login">
+       <div className="credentials">
+           <div>LOGIN: <b>fifa@ea.com</b></div>
+           <div>password: <b>123</b></div>
+       </div>
         <form onSubmit={handleLogin}>
             <input
                 type="email"
