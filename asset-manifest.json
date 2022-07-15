@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-context-tsStarwarsAPI/static/css/main.e3074242.css",
+    "main.js": "/react-context-tsStarwarsAPI/static/js/main.aecde7dd.js",
+    "index.html": "/react-context-tsStarwarsAPI/index.html",
+    "main.e3074242.css.map": "/react-context-tsStarwarsAPI/static/css/main.e3074242.css.map",
+    "main.aecde7dd.js.map": "/react-context-tsStarwarsAPI/static/js/main.aecde7dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3074242.css",
+    "static/js/main.aecde7dd.js"
+  ]
+}
