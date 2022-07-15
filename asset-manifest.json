@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-context-tsStarwarsAPI/static/css/main.e3074242.css",
-    "main.js": "/react-context-tsStarwarsAPI/static/js/main.aecde7dd.js",
-    "index.html": "/react-context-tsStarwarsAPI/index.html",
-    "main.e3074242.css.map": "/react-context-tsStarwarsAPI/static/css/main.e3074242.css.map",
-    "main.aecde7dd.js.map": "/react-context-tsStarwarsAPI/static/js/main.aecde7dd.js.map"
+    "main.css": "/static/css/main.e3074242.css",
+    "main.js": "/static/js/main.45003902.js",
+    "index.html": "/index.html",
+    "main.e3074242.css.map": "/static/css/main.e3074242.css.map",
+    "main.45003902.js.map": "/static/js/main.45003902.js.map"
   },
   "entrypoints": [
     "static/css/main.e3074242.css",
-    "static/js/main.aecde7dd.js"
+    "static/js/main.45003902.js"
   ]
 }
