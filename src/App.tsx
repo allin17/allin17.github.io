@@ -13,7 +13,7 @@ function App() {
 
     const  value = useContext(AuthContext)
     const RequireAuth = ({children}: any) => {
-        return value.state.currentUser ? children : <Navigate to="/login" />
+        return Object.keys(value.state.currentUser).length>0 ? children : <Navigate to="/login" />
     }
 
 
